@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a limnologist working to understand lakes at a global scale. To do this, I write a lot of software. 
+This website discusses some of those tools and how to use them. I hope this is useful to someone somewhere. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Seriously, if you find this at all useful, drop me a line. [lawinslow@gmail.com](mailto:lawinslow@gmail.com)
