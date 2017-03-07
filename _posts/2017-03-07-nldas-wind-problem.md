@@ -86,4 +86,4 @@ late = apply(abind::abind(lateall[2001:2006], along = 0), 2:3, mean)
 So the change from before to after 2001 definitely varies regionally. Much of the northeast is apparently pretty close to 1. 
 
 
-![plot of chunk plot](figure/plot-1.png)
+![plot of chunk plot](/figure/plot-1.png)
