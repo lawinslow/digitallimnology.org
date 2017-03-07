@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "NLDAS Wind Problem"
 author: "Luke Winslow"
 date: "March 7, 2017"
