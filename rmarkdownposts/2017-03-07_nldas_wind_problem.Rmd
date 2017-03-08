@@ -73,9 +73,10 @@ late = apply(abind::abind(lateall[2001:2006], along = 0), 2:3, mean)
 ```
 
 
-So the change from before to after 2001 definitely varies regionally. Much of the northeast is apparently pretty close to 1. 
+So the change from before to after 2001 definitely varies regionally. Much of the northeast is apparently pretty close to 0 
+change across that time period (which is desirable). 
 
 
-```{r plot, echo=FALSE}
+```{r plot, echo=FALSE, fig.width=9}
 fields::image.plot(early-late)
 ```

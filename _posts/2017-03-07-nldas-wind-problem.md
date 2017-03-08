@@ -1,19 +1,17 @@
 ---
-layout: post
 title: "NLDAS Wind Problem"
 author: "Luke Winslow"
 date: "March 7, 2017"
 output: html_document
 ---
 
-NLDAS (National Land Data Assimilation System) from [nasa](https://ldas.gsfc.nasa.gov/nldas/) is an awesome data product. 
-But I have found challenges with the wind data. 
-
 ## NLDAS
 
+NLDAS (National Land Data Assimilation System) from [nasa](https://ldas.gsfc.nasa.gov/nldas/) is an awesome data product. 
 Time and time again, I have found it to be an outstanding representation of meterological drivers across the US. At the very 
-least, in the regions I am working. That being said, with NLDAS, I have struggled with one big thing: Wind speed. For some 
-reason, in the upper midwest, myself and colleagues
+least, in the regions I am working. 
+
+That being said, with NLDAS, I have struggled with one big thing: Wind speed. For some reason, in the upper midwest, myself and colleagues
 have [found a step change in the wind speed data](https://github.com/USGS-R/mda.lakes/issues/70). This [seems to come
 from](https://github.com/USGS-R/mda.lakes/issues/72) one of the source datasets, the North American Regional Reanalysis
 [NARR](https://www.esrl.noaa.gov/psd/data/gridded/data.narr.html).
@@ -83,7 +81,8 @@ late = apply(abind::abind(lateall[2001:2006], along = 0), 2:3, mean)
 ```
 
 
-So the change from before to after 2001 definitely varies regionally. Much of the northeast is apparently pretty close to 1. 
+So the change from before to after 2001 definitely varies regionally. Much of the northeast is apparently pretty close to 0 
+change across that time period (which is desirable). 
 
 
 ![plot of chunk plot](/figure/plot-1.png)
