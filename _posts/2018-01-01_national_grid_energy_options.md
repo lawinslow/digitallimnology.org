@@ -41,7 +41,9 @@ that are better than my National Grid rate. Agway has a really cheap variable ra
 has a 12-month fixed rate that is lower than the current National Grid rate (not shown in screenshot, $0.0517/kWh). 
 
 But there are two critical issues here. 
+
 * The National Grid number shown is just the variable rate for this month. It isn't a representative average. 
+
 * The Agway rate is not a true rate, when you click on "prior offers", you see Agway only shows Promotional rates. 
 
 So I'm very skeptical of the Agway rate. All rates listed on that website are introductory rates. So I have no visibility
@@ -88,6 +90,8 @@ Articles on this issue were surprisingly hard to find. But there are a few with 
  * [Customers compare ESCO bills to National Grid: One loses $100 a month, another saves $30](http://www.syracuse.com/news/index.ssf/2013/07/winners_and_losers_customers_compare_esco_bills_to_national_grid.html)*
 
  * [Save Money by Switching Your Electricity or Gas Supplier? Think Twice.](http://utilityproject.org/campaigns/save-money-by-switching-your-electricity-or-gas-supplier-think-twice/)
+ 
+ * [Time is Money: AARP Urges NYers to Reject ESCOs; End to Delay in Probe of High Prices](http://utilityproject.org/2017/07/07/time-is-money-aarp-urges-nyers-to-reject-escos-end-to-delay-in-probe-of-high-prices/)
 
 \* I find the UPS driver story in this article to be BS. Viridian Energy basically operates a pyramid scheme, where you 
 try to get your friends and family to switch, and they pay you for energy they buy. Someone is paying for your savings, 
