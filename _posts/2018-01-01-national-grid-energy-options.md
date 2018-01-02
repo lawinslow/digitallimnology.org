@@ -32,7 +32,7 @@ link to them to give them the google credit.
 Then I found one of the few good ones for NY state. [NYS Power To Choose](http://documents.dps.ny.gov/PTC/home). 
 Made by the NY Public Service Commission. My search looks like this:
 
-![NY Public Service Comission Website Query](images/nps_query_electric.PNG)
+![NY Public Service Comission Website Query](/images/nps_query_electric.PNG)
 
 ## When is a rate not a rate?
 
@@ -62,7 +62,7 @@ with weighted averages of gas and electric rates.
 This is definitely lower than the lowest fixed rate provider available to me. 
 
 
-![My personal energy rate](images/energy_rate_table.PNG)
+![My personal energy rate](/images/energy_rate_table.PNG)
 
 Of course, one is forward-looking (fixed rate) and the other is backward looking (my historical rates). 
 But its one of the better comparisons available to me at at the moment.
