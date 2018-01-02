@@ -23,4 +23,5 @@ scales. I'm an empiricist at heart, so data is king.
 ### Contact me
 
 Email: [lawinslow@gmail.com](mailto:lawinslow@gmail.com)
+
 Phone: 608-332-1245
