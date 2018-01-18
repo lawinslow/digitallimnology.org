@@ -166,7 +166,7 @@ for(i in seq_along(fuels)){
     if(i == j){
       #do nothing    
     }else{
-      cor_mat[i, j] = cor(diff(d_daily[,fuels[i]]), diff(d_daily[,fuels[j]]), method = 'spearman') 
+      cor_mat[i, j] = cor(diff(d[,fuels[i]]), diff(d[,fuels[j]]), method = 'spearman') 
     }
   }
 }
@@ -210,7 +210,7 @@ they respond to the same price and need signals.
 
 ## Download and process code
 
-The following code was what I used to grab and 
+The following code was what I used to grab and merge the data from the NY-ISO website. 
 
 
 ```{r loadprocesscode, echo=TRUE, eval=FALSE}

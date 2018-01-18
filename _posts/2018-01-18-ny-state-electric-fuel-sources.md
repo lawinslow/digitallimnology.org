@@ -7,7 +7,7 @@ output: html_document
 
 
 New York state has excellent open, online data available on the generation and consumption 
-of electricity in the state. So I decided to look into what fuels go into generating electricity in New York.
+of electricity in the state. So I decided to look into what fuels go into generating electricity in New York. 
 
 ## NY Fuel Mix Data
 
@@ -150,7 +150,7 @@ they respond to the same price and need signals.
 
 ## Download and process code
 
-The following code was what I used to grab and 
+The following code was what I used to grab and merge the data from the NY-ISO website. 
 
 
 
