@@ -38,8 +38,7 @@ for(i in seq_along(fuels)){
 }
 
 
-### timeseries
-
+### cheap and easy timeseries plot
 d_daily = aggregate(d, list(date=as.character(trunc.POSIXt(d$datetime, units = 'days'))), FUN=mean)
 d_daily$datetime = NULL
 d_daily$date = as.Date(d_daily$date)

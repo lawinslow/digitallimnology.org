@@ -7,7 +7,7 @@ output: html_document
 
 
 New York state has excellent open, online data available on the generation and consumption 
-of electricity in the state. So I decided to look into how electricity is generated. 
+of electricity in the state. So I decided to look into what fuels go into generating electricity in New York.
 
 ## NY Fuel Mix Data
 
@@ -37,7 +37,7 @@ d_daily_long = reshape2::melt(d_daily, id.vars='date', variable.name='Fuel', val
 ggplot(d_daily_long) + geom_line(aes(date, Power, color=Fuel), size=1) + theme_minimal()
 ```
 
-![plot of chunk fuel usage](figure/fuel usage-1.png)
+![plot of chunk fuel usage](/figure/fuel usage-1.png)
 
 ### Notes and interpretation.
 
@@ -116,7 +116,7 @@ for(i in seq_along(fuels)){
 }
 ```
 
-![plot of chunk fuelcorrelation](figure/fuelcorrelation-1.png)
+![plot of chunk fuelcorrelation](/figure/fuelcorrelation-1.png)
 
 ### My thoughts
 1. Wind variability is compensated using hydro primarily. Though the other fuels also clearly play a role (except fossils and dual apparently). 
@@ -134,7 +134,7 @@ it drops, other fuels have to pick up the slack.
 The 5-minute scale analysis is still potentially interesting. Below shows the results (I skip the code, it is redundant with the above analysis). 
 Note the color scale is tighter compared with above. 
 
-![plot of chunk fuelcorrelationhighres](figure/fuelcorrelationhighres-1.png)
+![plot of chunk fuelcorrelationhighres](/figure/fuelcorrelationhighres-1.png)
 
 
 ### Notes and interpretation.

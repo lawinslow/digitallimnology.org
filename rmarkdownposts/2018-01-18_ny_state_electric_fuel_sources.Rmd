@@ -7,7 +7,7 @@ output: html_document
 
 
 New York state has excellent open, online data available on the generation and consumption 
-of electricity in the state. So I decided to look into how electricity is generated. 
+of electricity in the state. So I decided to look into what fuels go into generating electricity in New York. 
 
 ## NY Fuel Mix Data
 
