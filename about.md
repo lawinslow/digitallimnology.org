@@ -11,6 +11,8 @@ scales. I'm an empiricist at heart, so data is king.
 
 * [Latest CV](/cv.pdf)
 
+* [One-page Resume](/Resume.pdf)
+
 * [Github](http://github.com/lawinslow)
 
 * [Google Scholar](https://scholar.google.com/citations?user=WENGCtYAAAAJ&hl=en&oi=ao)
