@@ -4,6 +4,8 @@ title: Papers
 permalink: /papers/
 ---
 
+## Papers
+
 Here is a list of the majority of my papers. I will try to keep it updated, but
 if you know of something that's not here, feel free to [email me](/about/).
 
@@ -83,3 +85,4 @@ if you know of something that's not here, feel free to [email me](/about/).
 
 * Tilak, S. et al. (2007), Conceptual challenges and practical issues in building the Global Lake Ecological Observatory Network, in Proceedings of the 2007 International Conference on Intelligent Sensors, Sensor Networks and Information Processing, ISSNIP.
 Winslow, L. A., H. A. Dugan, H. N. Buelow, K. D. Cronin, J. C. Priscu, C. Takacs-Vesbach, and P. T. Doran (2014), Autonomous year-round sampling and sensing to explore the physical and biological habitability of permanently ice-covered antarctic lakes, Mar. Technol. Soc. J., 48(5).
+
