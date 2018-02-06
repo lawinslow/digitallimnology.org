@@ -4,8 +4,6 @@ title: Papers
 permalink: /papers/
 ---
 
-## Papers
-
 Here is a list of the majority of my papers. I will try to keep it updated, but
 if you know of something that's not here, feel free to [email me](/about/).
 
